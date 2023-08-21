@@ -1,0 +1,76 @@
+@media (max-width:900px)
+
+{
+
+.logo
+{
+    width: 100%;
+}
+.homes
+{
+    width: 100%;
+    margin-top: 20px;
+}
+.home
+{
+    width: 25%;
+}
+.food-items
+{
+    width: 100%;
+}
+.item-main
+{
+    width: 40%;
+    margin: 20px;
+}
+.discount-img,.discount
+{
+    width: 100%;
+}
+.order
+{
+    width: 40%;
+}
+.free-delivey-content
+{
+    width: 100%;
+}
+}
+@media (max-width:500px)
+{
+
+.main h2
+{
+    padding: 40px 0 30px 0;
+    font-size: 70px;
+}
+.item-main
+{
+    width: 80%;
+    margin-top: 20px;
+}
+.order
+{
+    width: 100%;
+}
+.media-detail
+{
+    width: 100%;
+}
+.about
+{
+    background-size: 100% 100%;
+}
+.about-1
+{
+    width: 40%;
+    margin-top: 120PX;
+}
+.about-2
+{
+    width: 16.66%;
+    margin-top: 120px;
+}
+
+}
