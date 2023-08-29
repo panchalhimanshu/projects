@@ -21,6 +21,11 @@ body
 {
   padding: 250px 0px 0 80px;
   color: white;
+  width: 68%;
+}
+.mymy
+{
+    width: 32%;
 }
 
 .mynames h3
@@ -396,7 +401,7 @@ h1 span
     height: 300px;
     width:250px ;
     box-shadow: 0 0 20px #0ef;
-    margin: 30px 50px 50px 120px;
+    margin: 50px auto;
 }
 .project-1-main:hover
 {
@@ -503,10 +508,13 @@ h1 span
 {
     width: 50%;
 }
+.info-list
+{
+    width: 50%;
+    margin: 0 auto;
+}
 .contact p
 {
-  height: 50px;
-  width: 400px;
   background: white;
   border-radius: 40px;
   padding-left: 10px;

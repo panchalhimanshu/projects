@@ -1,9 +1,10 @@
 @media (max-width:500px)
 
 {
-    .mynames{padding: 100px 20px;}
+    .mynames{padding: 100px 20px; width: 100%;}
+    .mymy{width: 100%;}
     .mynames .btn{margin: 10px 0px;}
-    .my-img{margin: 30px auto 90px auto;}
+    .my-img{margin: 30px auto 90px auto;height: 220px;width: 220px;}
 
     .my-img2,.about{width: 100%;}
     .about{margin-top: 50px;}
@@ -18,7 +19,7 @@
     .my-project{grid-template-columns: 1fr;}
     .project-1-main{margin: 30px auto;}
 
-    
+    .info-list{width: 90%;}
     .contact,.inputs{width: 100%;}
     .inputs{margin-top: 80px;}
 }

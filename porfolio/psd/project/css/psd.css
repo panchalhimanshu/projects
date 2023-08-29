@@ -48,7 +48,7 @@
 {
     margin-top: 50px;
     text-align: center;
-    font-size: 8vw;
+    font-size:5rem;
 }
 .main p
 {
@@ -263,7 +263,7 @@
     height: 350px;
     width: 100%;
     background: url(../imgs/Shape\ \(5\).png);
-    background-size:cover;
+    background-size:100% 100%;
     padding: 20px 0;
 }
 .about-1
